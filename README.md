@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Инструменты и технологии
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Statsmodels` • `Jupyter`  
+![`Python`](https://camo.githubusercontent.com/8e7ef4279b0f77e9cd7b27d90eb02b4a654e13f75e31ca141771c93aadb2f077/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765) • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Statsmodels` • `Jupyter`  
 `SQL` • `PostgreSQL` • `ClickHouse` • `Git` • `Airflow` • `DataLens`
 
 ---
