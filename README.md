@@ -29,7 +29,7 @@
 | [Анализ поведения пользователей и оценка метрик продукта](https://github.com/Mrgrozzz/analysis_metriks) | Формирование когортного анализа по логам авторизации пользователей, анализ результатов А/B теста для определения стат. значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения. | **pandas, numpy, matplotlib, seaborn, scipy, statsmodels, pingouin** |
 | [Анализ пользовательского поведения и метрик маркетплейса](https://github.com/Mrgrozzz/marketplace-analysis) | Анализ поведения пользователей маркетплейса и продуктовых метрик. Исследовал Retention и выручку, выявил причины расхождения роста аудитории и дохода, сформировал продуктовые гипотезы и метрики для оценки улучшений. | **Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook** |
 | [RFM-сегментация студентов онлайн-школы](https://github.com/Mrgrozzz/RFM-analysis) | Анализ поведения студентов и сегментация аудитории с помощью адаптированного RFM-анализа. | **Python, pandas, matplotlib, Jupyter Notebook** |
-| [4]() | Добавь описание. | Добавь стек |
+| [Анализ продаж и поиск аномалий в B2B-заказах](https://github.com/Mrgrozzz/b2b_sales_anomaly_analysis) | Выявил технический сбой в заказах, оценил его влияние на выручку и показал искажение ключевых бизнес-метрик. | **Python, pandas, matplotlib, seaborn** |
 <!--
 **Mrgrozzz/mrgrozzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
